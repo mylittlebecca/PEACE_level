@@ -34,14 +34,12 @@ Exploration
 Since Random Forest had higher accuracy overall, we chose the top 200 important words and their feature importance of each trained pairs and joined their peaceful level (1 or 0). The Word Cloud showed the appearances of these words.
 
 
-<img width="468" alt="image" src="https://user-images.githubusercontent.com/91220978/187239022-f93fcce9-b72b-40fa-8e1f-3bd5f4149914.png">
  
 Figure 1 WordCloud for Non-Peaceful Countries
 
 
 
 
-<img width="468" alt="image" src="https://user-images.githubusercontent.com/91220978/187239062-634454f6-f6d4-4b36-9e1f-5d289405172f.png">
  
 Figure 2 WordCloud for Peaceful Countries
-![image](https://user-images.githubusercontent.com/91220978/187238976-1aebfb07-7254-4f8a-ade6-9612bdb04ec0.png)
+![image](https://user-images.githubusercontent.com/91220978/187239289-8a5c299e-9e1b-47a2-8d7e-421903e57f90.png)
