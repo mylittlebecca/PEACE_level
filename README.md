@@ -1,4 +1,4 @@
-** ** Data
+** Data
 11 countries’ text data from 5_domestic_filter_Ngram_stopwords_lemmatize folder.
 Countries for training: Canada, US, Singapore, Philippines, New Zealand, Nigeria, Ireland, and Bangladesh.
 Countries for testing: Australia, Kenya, United Kingdom.
