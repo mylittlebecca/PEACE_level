@@ -33,6 +33,7 @@ The Canada/US pair showed higher accuracy score for predicting non-peaceful coun
 **Exploration**
 
 Since Random Forest had higher accuracy overall, we chose the top 200 important words and their feature importance of each trained pairs and joined their peaceful level (1 or 0). The Word Cloud showed the appearances of these words.
-<img width="468" alt="image" src="https://user-images.githubusercontent.com/91220978/187240446-27227310-4c26-4e87-8eb5-006803ec3432.png">
+WordCloud for Non-Peaceful Countries![image](https://user-images.githubusercontent.com/91220978/187240856-6037cf99-faac-4a1b-905a-64c33125d32b.png)
+
 
 
