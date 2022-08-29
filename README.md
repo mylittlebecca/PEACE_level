@@ -14,11 +14,8 @@ Countries for testing: Australia, Kenya, United Kingdom.
 
 **Training**
 
-Peaceful Country	Non-Peaceful Country
-Canada	US
-Singapore	Philippines
-New Zealand	Nigeria
-Ireland	Bangladesh
+<img width="746" alt="Screen Shot 2022-08-29 at 11 42 38 AM" src="https://user-images.githubusercontent.com/91220978/187240330-f749ea44-1dbd-408a-b360-c12f189e3f3f.png">
+
 
 • Classified four country pairs regarding their demographic region similarity.
 • For each pair, split data to training and testing set (80/20 ratio).
