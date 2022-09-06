@@ -21,6 +21,11 @@ Countries for testing: Australia, Kenya, United Kingdom.
 • For each pair, split data to training and testing set (80/20 ratio).
 • Created TF-IDF features for each text in the training dataset.
 • Trained three models on the training dataset: Logistic Regression, Random Forest, and XGB
+-	Logistic Regression: Logistic function to classify the dependent variable (peace level)
+-	Random Forest: Bagging (ensemble) of Decision Trees to predict the average of Decision Tress and minimize the variance and overfitting. The feature importance is the decrease in node impurity weighted by the probability of reaching that node.
+-	XGB: Extreme Gradient Boosting of Decision Trees with iteration through residuals of previous model to minimize bias and underfitting
+![image](https://user-images.githubusercontent.com/91220978/188536096-e9ef9f8e-43e2-4f50-b209-3b6d81d985a0.png)
+
 • Combine eight countries’ dataset together and trained the same process.
 • Loaded the top 200 features and their importance of each model.
 • Compared the performance of the three models and five dataset choices.
