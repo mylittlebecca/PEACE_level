@@ -42,3 +42,10 @@ Since Random Forest had higher accuracy overall, we chose the top 200 important 
 <img width="745" alt="Screen Shot 2022-08-29 at 11 45 51 AM" src="https://user-images.githubusercontent.com/91220978/187241023-dbb02da2-8691-4e5a-88f4-c6af350b6643.png">
 
 <img width="742" alt="Screen Shot 2022-08-29 at 11 46 46 AM" src="https://user-images.githubusercontent.com/91220978/187241200-b8e317ab-3cba-4044-bca8-74e62bfd1b5d.png">
+
+The following two WordCLouds are from the training process of eight countries toghther.
+
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/91220978/188960217-15f17368-e1e3-4a0f-aa7c-574f5ae92e33.png">
+
+
+
